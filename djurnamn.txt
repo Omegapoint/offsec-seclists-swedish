@@ -37,14 +37,12 @@ Adam
 Adde
 Addi
 Adea
-Adl
+Adï¿½l
 Adela
 Adele
 Adelia
 Adelie
 Adelin
-
-
 Adelina
 Adeline
 Adelisa
@@ -90,8 +88,6 @@ Aesop
 Affe
 Affi
 Afia
-
-
 Afife
 Afonso
 Afra
@@ -137,8 +133,6 @@ Aileen
 Ailen
 Aili
 Ailie
-
-
 Ailin
 Ailine
 Ailo
@@ -184,8 +178,6 @@ Ajo
 Ajsha
 Akela
 Akil
-
-
 Akila
 Akilles
 Akira
@@ -231,8 +223,6 @@ Alden
 Aldiana
 Aldijana
 Aldin
-
-
 Aldina
 Aldis
 Aldo
@@ -278,8 +268,6 @@ Alexios
 Alexis
 Alexius
 Alexsandra
-
-
 Alexzandra
 Alf
 Alfa
@@ -325,8 +313,6 @@ Aliz
 Aliza
 Alize
 Alizia
-
-
 Alizza
 Alketa
 Alladin
@@ -372,8 +358,6 @@ Alvie
 Alvin
 Alvina
 Alvine
-
-
 Alvira
 Alvis
 Alwar
@@ -419,8 +403,6 @@ Amida
 Amie
 Amiga
 Amigo
-
-
 Amila
 Amilia
 Amina
@@ -466,8 +448,6 @@ Ander
 Andes
 Andi
 Andia
-
-
 Andie
 Andin
 Andina
@@ -477,9 +457,9 @@ Andjelo
 Andra
 Andrada
 Andraws
-Andr
+Andrï¿½
 Andrea
-Andre
+Andrï¿½e
 Andreea
 Andreh
 Andrej
@@ -503,7 +483,7 @@ Anela
 Anelia
 Anella
 Anemon
-Anmone
+Anï¿½mone
 Anes
 Anesa
 Anessa
@@ -513,8 +493,6 @@ Anfal
 Ange
 Angel
 Angelia
-
-
 Angelica
 Angelin
 Angelina
@@ -560,12 +538,10 @@ Annabella
 Annabelle
 Annaclara
 Annam
-
-
 Annamia
 Annas
 Annastasia
-Annbjšrg
+Annbjï¿½rg
 Annelore
 Annerose
 Annes
@@ -607,8 +583,6 @@ Anushka
 Anvi
 Anvor
 Anxhela
-
-
 Any
 Anya
 Anzal
@@ -654,8 +628,6 @@ Ardijana
 Ardita
 Are
 Areen
-
-
 Areeya
 Arej
 Aren
@@ -701,8 +673,6 @@ Ariona
 Aris
 Arisa
 Arish
-
-
 Arissa
 Arista
 Aristo
@@ -748,8 +718,6 @@ Arnika
 Arnisa
 Arnold
 Arnoldo
-
-
 Arnon
 Arnstein
 Aro
@@ -795,8 +763,6 @@ Arturs
 Arty
 Artyom
 Arune
-
-
 Arvand
 Arve
 Arved
@@ -842,8 +808,6 @@ Asko
 Askot
 Askungen
 Aslan
-
-
 Asma
 Asmayt
 Asmin
@@ -889,8 +853,6 @@ Atom
 Atos
 Atosa
 Atra
-
-
 Atrin
 Atrisa
 Attack
@@ -936,8 +898,6 @@ Avend
 Avenger
 Avery
 Avesta
-
-
 Avin
 Avina
 Aviva
@@ -983,8 +943,6 @@ Aylin
 Ayline
 Aylinn
 Ayna
-
-
 Ayni
 Ayra
 Aysa
@@ -1030,8 +988,6 @@ Bager
 Bagheera
 Baghera
 Bahara
-
-
 Bahare
 Bahja
 Bahjo
@@ -1042,11 +998,11 @@ Bakar
 Baker
 Bako
 Baktash
-Bal‡zs
+Balï¿½zs
 Balder
 Baldy
 Balen
-B‡lint
+Bï¿½lint
 Ballerina
 Ballo
 Balloo
@@ -1077,8 +1033,6 @@ Bandit
 Bane
 Baneen
 Bang
-
-
 Bangin
 Banin
 Banipal
@@ -1091,7 +1045,7 @@ Bao
 Baptiste
 Baqer
 Bara
-B‡rbara
+Bï¿½rbara
 Barbie
 Barbro
 Barham
@@ -1101,7 +1055,7 @@ Barker
 Barkley
 Barky
 Barley
-Barnab‡s
+Barnabï¿½s
 Barney
 Baron
 Baroness
@@ -1124,8 +1078,6 @@ Basro
 Bass
 Basse
 Basta
-
-
 Basti
 Bastian
 Bastien
@@ -1162,7 +1114,7 @@ Beheshta
 Beilul
 Bejza
 Belan
-Beln
+Belï¿½n
 Belin
 Belina
 Belinay
@@ -1171,8 +1123,6 @@ Belize
 Belker
 Bell
 Bella
-
-
 Belladonna
 Bellami
 Bellamie
@@ -1218,8 +1168,6 @@ Benton
 Benyamin
 Benzon
 Beppe
-
-
 Beppo
 Beran
 Berat
@@ -1265,8 +1213,6 @@ Bessy
 Best
 Betania
 Betel
-
-
 Bethany
 Bethoven
 Betina
@@ -1312,8 +1258,6 @@ Billan
 Billbo
 Bille
 Billie
-
-
 Billy
 Bim
 Bimba
@@ -1359,8 +1303,6 @@ Bitte
 Bitzy
 Bix
 Bixi
-
-
 Bixie
 Bizette
 Bizze
@@ -1369,11 +1311,11 @@ Bjanka
 Bjarki
 Bjondina
 Bjorn
-BjŠrne
-Bjšrk
-Bjšrn
-Bjšrn-Arne
-Bjšrne
+Bjï¿½rne
+Bjï¿½rk
+Bjï¿½rn
+Bjï¿½rn-Arne
+Bjï¿½rne
 Black
 Blackie
 Blacky
@@ -1406,8 +1348,6 @@ Blitz
 Blitzen
 Blixt
 Blixten
-
-
 Blixtra
 Blizzard
 Blondi
@@ -1415,7 +1355,7 @@ Blondie
 Blossom
 Blue
 Blueberry
-BlŠnda
+Blï¿½nda
 Bnar
 Bo
 Boas
@@ -1431,7 +1371,7 @@ Bodil
 Bodour
 Bogart
 Bogey
-Bogl‡rka
+Boglï¿½rka
 Boj
 Bojan
 Bojangles
@@ -1453,8 +1393,6 @@ Bonny
 Bonsai
 Bonso
 Bonus
-
-
 Bonzo
 Boo
 Booger
@@ -1500,8 +1438,6 @@ Braa
 Brady
 Brage
 Brajan
-
-
 Bram
 Brambles
 Brando
@@ -1547,12 +1483,10 @@ Brutal
 Brute
 Brutus
 Brwa
-
-
 Bryan
 Bryar
 Brynja
-BrŠnd
+Brï¿½nd
 Bubba
 Bubblan
 Bubbles
@@ -1594,8 +1528,6 @@ Bussa
 Bussy
 Buster
 Busy
-
-
 Butch
 Butler
 Butrint
@@ -1604,10 +1536,10 @@ Butterfly
 Butterscotch
 Button
 Buzz
-BŒtsman
-Bšnan
-Bšrje
-Bšrre
+Bï¿½tsman
+Bï¿½nan
+Bï¿½rje
+Bï¿½rre
 Cadbury
 Caddy
 Caesar
@@ -1641,8 +1573,6 @@ Cameo
 Cameron
 Camila
 Camilia
-
-
 Camilla
 Camille
 Camilo
@@ -1682,14 +1612,12 @@ Carmenzita
 Caro
 Carol
 Carolina
-Carolin
+Carolinï¿½
 Carolinn
 Caroll
 Carras
 Carrie
 Carro
-
-
 Carrot
 Carry
 Carter
@@ -1735,8 +1663,6 @@ Cazandra
 Cazper
 Cazpian
 Cazzandra
-
-
 Ceasar
 Cebastian
 Cecar
@@ -1782,8 +1708,6 @@ Cessy
 Cevin
 Cewin
 Ceyda
-
-
 Ceylan
 Ceylin
 Cezar
@@ -1829,8 +1753,6 @@ Charis
 Charisma
 Charlee
 Charleen
-
-
 Charlemagne
 Charlene
 Charles
@@ -1876,8 +1798,6 @@ Chetan
 Cheuk
 Chevy
 Chewbacca
-
-
 Chewie
 Cheyenne
 Chia
@@ -1923,8 +1843,6 @@ Chirac
 Chita
 Chiva
 Chivas
-
-
 Chiwas
 Chleo
 Chloe
@@ -1970,8 +1888,6 @@ Cidra
 Cigge
 Cihan
 Cilia
-
-
 Cilin
 Cilla
 Cillian
@@ -2017,11 +1933,9 @@ Claw
 Clay
 Clayton
 Clea
-
-
-Clmence
+Clï¿½mence
 Clemencia
-Clment
+Clï¿½ment
 Clementine
 Cleo
 Cleopatra
@@ -2064,8 +1978,6 @@ Columbus
 Comet
 Comic
 Compis
-
-
 Conan
 Congo
 Connie
@@ -2111,8 +2023,6 @@ Coy
 Cozy
 Crash
 Crawler
-
-
 Cream
 Creep
 Creepy
@@ -2203,8 +2113,6 @@ Damjan
 Damla
 Damon
 Damoon
-
-
 Dana
 Danae
 Danah
@@ -2225,7 +2133,7 @@ Daniah
 Danial
 Daniar
 Danie
-Danil
+Daniï¿½l
 Danielius
 Daniell
 Daniella
@@ -2250,8 +2158,6 @@ Danna
 Danne
 Danni
 Danniel
-
-
 Danny
 Dansa
 Dante
@@ -2297,8 +2203,6 @@ Dasher
 Dashne
 Dastan
 Data
-
-
 Daud
 Davi
 David
@@ -2344,8 +2248,6 @@ Dejen
 Dejin
 Dejvid
 Deka
-
-
 Dekan
 Deko
 Deku
@@ -2391,8 +2293,6 @@ Denitsa
 Deniz
 Denize
 Denni
-
-
 Dennis
 Denniz
 Denver
@@ -2438,8 +2338,6 @@ Dewin
 Dewran
 Dex
 Dexter
-
-
 Deya
 Deyana
 Deyar
@@ -2485,8 +2383,6 @@ Digby
 Digger
 Dijar
 Dijon
-
-
 Dikte
 Dila
 Dilan
@@ -2532,8 +2428,6 @@ Diona
 Dionis
 Dionisios
 Dionysos
-
-
 Dior
 Diora
 Dipak
@@ -2579,8 +2473,6 @@ Dodo
 Dogge
 Doggy
 Doglas
-
-
 Dogu
 Dojo
 Doll
@@ -2626,13 +2518,11 @@ Dorentina
 Dori
 Dorian
 Doris
-
-
 Dorito
 Dorjan
 Dorna
 Dorontina
-Dorothe
+Dorothï¿½e
 Dorottya
 Dorsa
 Doruk
@@ -2673,8 +2563,6 @@ Duff
 Duke
 Dumle
 Dumpling
-
-
 Duncan
 Dundee
 Dunder
@@ -2765,8 +2653,6 @@ Edvardo
 Edvin
 Edvina
 Edvinas
-
-
 Edward
 Edwin
 Edwina
@@ -2812,8 +2698,6 @@ Ejja
 Ejje
 Ejla
 Ejler
-
-
 Ejny
 Ejona
 Ekkehard
@@ -2852,15 +2736,13 @@ Elemer
 Elemina
 Elen
 Elend
-Elne
+Elï¿½ne
 Elenie
 Elenita
 Elenora
 Elenore
-Elonore
+Elï¿½onore
 Elf
-
-
 Elfida
 Elham
 Elhana
@@ -2906,8 +2788,6 @@ Elio
 Elion
 Eliona
 Elionora
-
-
 Eliora
 Eliot
 Eliott
@@ -2953,8 +2833,6 @@ Ellienor
 Ellin
 Elling
 Ellinor
-
-
 Ellinora
 Ellinore
 Ellion
@@ -3000,8 +2878,6 @@ Elsiv
 Elson
 Elthon
 Elton
-
-
 Elvana
 Elvar
 Elvert
@@ -3047,8 +2923,6 @@ Emellie
 Emely
 Emerald
 Emerentia
-
-
 Emerik
 Emerson
 Emery
@@ -3094,8 +2968,6 @@ Emmet
 Emmett
 Emmi
 Emmie
-
-
 Emmili
 Emmily
 Emmitt
@@ -3141,8 +3013,6 @@ Enkido
 Enlil
 Enna
 Ennes
-
-
 Ennie
 Ennio
 Ennis
@@ -3188,8 +3058,6 @@ Erjona
 Erkhes
 Erkut
 Erlendur
-
-
 Erlind
 Erlis
 Ermal
@@ -3235,13 +3103,11 @@ Esin
 Eska
 Eskander
 Eskil
-
-
 Eskimo
 Esko
 Esma
 Esmanur
-Esm
+Esmï¿½
 Esmeralda
 Espen
 Esra
@@ -3282,8 +3148,6 @@ Evana
 Evander
 Evangelin
 Evangelina
-
-
 Evangeline
 Evanna
 Evans
@@ -3329,8 +3193,6 @@ Eyad
 Eyas
 Eyerusalem
 Eyla
-
-
 Eyman
 Eymen
 Eyobed
@@ -3376,8 +3238,6 @@ Fandango
 Fang
 Faniel
 Fanni
-
-
 Fannie
 Fanny
 Fanta
@@ -3423,8 +3283,6 @@ Feline
 Felipa
 Felipe
 Felippa
-
-
 Felisia
 Felix
 Feliz
@@ -3470,8 +3328,6 @@ Fiddy
 Fideli
 Fidelie
 Fidget
-
-
 Fido
 Fie
 Fiffi
@@ -3517,8 +3373,6 @@ Firat
 Firdavs
 Firel
 Firuza
-
-
 Fisher
 Fisk
 Fiskis
@@ -3564,8 +3418,6 @@ Floppy
 Flora
 Florence
 Florencia
-
-
 Florent
 Florentine
 Flori
@@ -3611,8 +3463,6 @@ Fraggle
 Fran
 Frances
 Francesca
-
-
 Franchesca
 Francis
 Francisco
@@ -3640,7 +3490,7 @@ Frederica
 Frederico
 Frederike
 Frederikke
-Frdrique
+Frï¿½dï¿½rique
 Fredman
 Fredrica
 Fredrik
@@ -3658,8 +3508,6 @@ Freyr
 Frezgi
 Frick
 Frida
-
-
 Fridah
 Fridolf
 Fridolin
@@ -3682,7 +3530,7 @@ Froste
 Frosty
 Frozan
 Frtuna
-Fršja
+Frï¿½ja
 Fu
 Fudge
 Fuji
@@ -3702,7 +3550,7 @@ Fuzzbucket
 Fuzzy
 Fynn
 Fyori
-FŒglis
+Fï¿½glis
 Gabbie
 Gabby
 Gabija
@@ -3750,8 +3598,6 @@ Garcon
 Garfield
 Garima
 Garm
-
-
 Garo
 Garp
 Garth
@@ -3797,11 +3643,9 @@ Georgii
 Georgio
 Georgiy
 Georgy
-
-
 Geppetto
 Gerdis
-Gergš
+Gergï¿½
 Gerle
 Germano
 Geronimo
@@ -3844,8 +3688,6 @@ Gillion
 Gilma
 Gin
 Gina
-
-
 Ginger
 Ginni
 Ginnie
@@ -3871,7 +3713,7 @@ Gizelle
 Gizmo
 Gizza
 Gizzmo
-Gjšrdis
+Gjï¿½rdis
 Glacier
 Glader
 Gladys
@@ -3891,8 +3733,6 @@ Gnidde
 Gnista
 Gnistan
 Gobble
-
-
 Goblin
 Goda
 Godfred
@@ -3938,8 +3778,6 @@ Govand
 Govert
 Grace
 Gracia
-
-
 Gracjan
 Grady
 Graham
@@ -3958,7 +3796,7 @@ Gregers
 Grej
 Greja
 Gresa
-Grta
+Grï¿½ta
 Gretel
 Gretzky
 Greven
@@ -3985,12 +3823,10 @@ Grund
 Grunt
 Grus
 Gry
-
-
 Grynet
 Gubben
 Gucci
-Gudj—n
+Gudjï¿½n
 Gudridur
 Gudrun
 Gudveig
@@ -4018,7 +3854,7 @@ Gunda
 Gundborg
 Gunde
 Gundi
-GungŠrd
+Gungï¿½rd
 Gunnar
 Gunner
 Gunnvor
@@ -4032,8 +3868,6 @@ Gus
 Gussie
 Gustaf
 Gustaf-Adolf
-
-
 Gustas
 Gustav
 Gustava
@@ -4057,15 +3891,15 @@ Gyro
 Gytis
 Gyunay
 Gzim
-GŠrdy
-Gškce
-Gšran
-Gšras
-Gšrdis
-Gšsta
-Gšte
-Gštha
-Gšzde
+Gï¿½rdy
+Gï¿½kce
+Gï¿½ran
+Gï¿½ras
+Gï¿½rdis
+Gï¿½sta
+Gï¿½te
+Gï¿½tha
+Gï¿½zde
 Haben
 Haddock
 Hades
@@ -4091,7 +3925,7 @@ Halbast
 Haley
 Halfdan
 Halibut
-Halld—r
+Halldï¿½r
 Hallgeir
 Halo
 Halwest
@@ -4124,8 +3958,6 @@ Hannin
 Hanny
 Hano
 Hans
-
-
 Hansel
 Hanseman
 Hanya
@@ -4171,8 +4003,6 @@ Hayk
 Haylee
 Hayley
 Haylie
-
-
 Hazel
 Heaven
 Heba
@@ -4218,10 +4048,8 @@ Helix
 Helja
 Heljo
 Hella
-
-
 Hellny
-HellŠ
+Hellï¿½
 Helma
 Helmer
 Helna
@@ -4265,8 +4093,6 @@ Herkus
 Herluf
 Herman
 Hermela
-
-
 Hermella
 Hermes
 Hermez
@@ -4312,8 +4138,6 @@ Hilke
 Hilla
 Hillary
 Hillevi
-
-
 Hillevie
 Hilma
 Hilmer
@@ -4330,7 +4154,7 @@ Hjalle
 Hjalmar
 Hjalte
 Hjalti
-Hjšrdis
+Hjï¿½rdis
 Hlynur
 Hoagie
 Hoang
@@ -4359,8 +4183,6 @@ Honer
 Honey
 Honia
 Honny
-
-
 Honya
 Hood
 Hooda
@@ -4384,7 +4206,7 @@ Howard
 Howler
 Hrafn
 Hristijan
-Hršnn
+Hrï¿½nn
 Hubba
 Hubbe
 Hubbi
@@ -4406,8 +4228,6 @@ Humla
 Humlan
 Humle
 Hummer
-
-
 Hundis
 Hunor
 Hunter
@@ -4417,12 +4237,12 @@ Huu
 Huzar
 Hydro
 Hyper
-HŒkan
-HŒrd
-HŠlge
-HŠrta
-HŠxan
-Hšgosta
+Hï¿½kan
+Hï¿½rd
+Hï¿½lge
+Hï¿½rta
+Hï¿½xan
+Hï¿½gosta
 Ia
 Ian
 Iason
@@ -4474,7 +4294,7 @@ Ignatius
 Igor
 Igoris
 Ihab
-Ihrne
+Ihrï¿½ne
 Ihsan
 Iid
 Iikka
@@ -4498,9 +4318,7 @@ Ilan
 Ilana
 Ilaria
 Ilayda
-
-
-IlbŠcks
+Ilbï¿½cks
 Ilda
 Ilektra
 Ilex
@@ -4545,8 +4363,6 @@ Ilyass
 Ilyes
 Ima
 Imen
-
-
 Imer
 Imilia
 Imma
@@ -4592,8 +4408,6 @@ Inka
 Inken
 Inti
 Io
-
-
 Ion
 Iona
 Ione
@@ -4601,7 +4415,7 @@ Ior
 Ipek
 Ira
 Irakli
-Irne
+Irï¿½ne
 Irie
 Irina
 Iris
@@ -4639,8 +4453,6 @@ Isidor
 Isidora
 Isil
 Isis
-
-
 Iso
 Isobel
 Isola
@@ -4657,7 +4469,7 @@ Itai
 Itchy
 Ito
 Itzi
-Iv‡n
+Ivï¿½n
 Ivanhoe
 Ivanna
 Ivano
@@ -4731,8 +4543,6 @@ Jala
 Jale
 Jalle
 Jalmar
-
-
 Jam
 Jama
 Jambo
@@ -4748,7 +4558,7 @@ Janaki
 Janar
 Janat
 Janda
-Jan
+Janï¿½
 Janelle
 Janeta
 Janetta
@@ -4778,8 +4588,6 @@ Jascha
 Jasemin
 Jaser
 Jasin
-
-
 Jasleen
 Jasmin
 Jasmine
@@ -4825,8 +4633,6 @@ Jeison
 Jelina
 Jelisavka
 Jelizaveta
-
-
 Jelly
 Jemil
 Jemima
@@ -4872,8 +4678,6 @@ Jerry
 Jesaja
 Jesica
 Jesika
-
-
 Jesper
 Jespher
 Jesse
@@ -4919,8 +4723,6 @@ Jingle
 Jingyi
 Jino
 Jinx
-
-
 Jippo
 Jir
 Jiro
@@ -4966,8 +4768,6 @@ Joli
 Jolia
 Joliana
 Jolie
-
-
 Jolin
 Jolina
 Joline
@@ -5003,7 +4803,7 @@ Jori
 Joris
 Jorm
 Jory
-Jos
+Josï¿½
 Josef
 Josefin
 Josefina
@@ -5013,8 +4813,6 @@ Joseline
 Joselyn
 Josephine
 Josh
-
-
 Joshua
 Josie
 Josta
@@ -5060,8 +4858,6 @@ Julietta
 Juliette
 Julina
 Juline
-
-
 Julissa
 Julius
 Jullan
@@ -5094,10 +4890,10 @@ Jutta
 Juuso
 Juvelia
 Jwan
-JŠger
-JŠnta
-JŠrker
-Jšns
+Jï¿½ger
+Jï¿½nta
+Jï¿½rker
+Jï¿½ns
 Kaan
 Kaarle
 Kabirr
@@ -5152,8 +4948,6 @@ Kana
 Kane
 Kang
 Kangari
-
-
 Kani
 Kanika
 Kaninis
@@ -5168,7 +4962,7 @@ Kara
 Karat
 Kardo
 Kareen
-K‡ri
+Kï¿½ri
 Karin
 Karishma
 Karisma
@@ -5199,8 +4993,6 @@ Katalina
 Kate
 Katelyn
 Katherin
-
-
 Kathreen
 Katinka
 Katitzi
@@ -5209,7 +5001,7 @@ Katla
 Kato
 Katra
 Katreen
-Katr’n
+Katrï¿½n
 Katrina
 Kattabb
 Kattis
@@ -5246,8 +5038,6 @@ Keenan
 Keg
 Kei
 Keila
-
-
 Kein
 Keira
 Keiron
@@ -5293,8 +5083,6 @@ Kermit
 Kero
 Kesanet
 Kesia
-
-
 Keso
 Kessie
 Kessy
@@ -5340,8 +5128,6 @@ Kiam
 Kian
 Kiana
 Kianosh
-
-
 Kiara
 Kiattisak
 Kibret
@@ -5387,8 +5173,6 @@ Kimmy
 Kimon
 Kimya
 Kina
-
-
 Kinan
 Kinana
 Kinda
@@ -5434,8 +5218,6 @@ Kiwi
 Kiyan
 Kjellaug
 Kjellrun
-
-
 Klajdi
 Klang
 Klara
@@ -5481,8 +5263,6 @@ Kosovare
 Kosrat
 Kotaiba
 Kotryna
-
-
 Kotte
 Kotten
 Kousai
@@ -5494,15 +5274,15 @@ Krenare
 Kreshnik
 Krestina
 Krish
-Kristbjšrg
+Kristbjï¿½rg
 Kristell
 Kristers
 Kristiana
-Krist—f
+Kristï¿½f
 Kristoffer
 Kristupas
 Krist_na
-Kriszti‡n
+Krisztiï¿½n
 Kritsada
 Kritsana
 Krsta
@@ -5510,8 +5290,8 @@ Krut
 Krutov
 Kryddan
 Krystal
-KrŒk
-KrŒng
+Krï¿½k
+Krï¿½ng
 Ksanet
 Ksawery
 Ksenia
@@ -5528,8 +5308,6 @@ Kuma
 Kumar
 Kumba
 Kummin
-
-
 Kurre
 Kurt
 Kush
@@ -5544,9 +5322,9 @@ Kylie
 Kyra
 Kyrillos
 Kyrylo
-KŠlla
-KŠthi
-Kšrpe
+Kï¿½lla
+Kï¿½thi
+Kï¿½rpe
 La-Or
 Laban
 Labbe
@@ -5575,8 +5353,6 @@ Lais
 Laisa
 Laith
 Laiza
-
-
 Lajan
 Lajban
 Lajka
@@ -5622,8 +5398,6 @@ Larina
 Larine
 Laris
 Larissa
-
-
 Larry
 Lars
 Larsa
@@ -5669,8 +5443,6 @@ Laylo
 Layth
 Lazar
 Lazhar
-
-
 Lazy
 Le
 Lea
@@ -5716,8 +5488,6 @@ Leijah
 Leilah
 Leilani
 Leily
-
-
 Lein
 Leino
 Leire
@@ -5740,7 +5510,7 @@ Lemmy
 Lemoni
 Lemonie
 Len
-Lna
+Lï¿½na
 Lena-Britta
 Lenart
 Leni
@@ -5763,8 +5533,6 @@ Leonardo
 Leone
 Leonel
 Leonella
-
-
 Leonelle
 Leoni
 Leonidas
@@ -5810,8 +5578,6 @@ Lexie
 Lexus
 Leya
 Leyah
-
-
 Leyal
 Leyan
 Leylo
@@ -5857,8 +5623,6 @@ Lilijana
 Lilit
 Lilith
 Lilja
-
-
 Liljen
 Lillan
 Lillebror
@@ -5904,9 +5668,7 @@ Linn
 Linn-Marie
 Linna
 Linnar
-
-
-Linn
+Linnï¿½
 Linnea
 Linnette
 Linni
@@ -5951,8 +5713,6 @@ Liston
 Lita
 Lith
 Lithea
-
-
 Liucija
 Liutauras
 Liv
@@ -5995,7 +5755,7 @@ Loffe
 Logan
 Logic
 Loi
-Lo•c
+Loï¿½c
 Loie
 Lois
 Loisa
@@ -6043,8 +5803,6 @@ Lorisa
 Lorry
 Losin
 Lotta
-
-
 Lotten
 Lotti
 Lottie
@@ -6057,7 +5815,7 @@ Loui
 Louie
 Louis
 Louisa
-Louis
+Louisï¿½
 Louize
 Loujain
 Loukas
@@ -6090,8 +5848,6 @@ Lowa
 Lowe
 Lowelia
 Lowina
-
-
 Lowis
 Lowisa
 Loyd
@@ -6137,8 +5893,6 @@ Lujin
 Luka
 Lukas
 Lukaz
-
-
 Luke
 Lulia
 Luliana
@@ -6184,7 +5938,7 @@ Lyric
 Lysander
 Lystra
 Lyydia
-L¾rke
+Lï¿½rke
 Maaz
 Mabelle
 Mac
@@ -6229,8 +5983,6 @@ Magnet
 Magnolia
 Magnum
 Magnus
-
-
 Magny
 Magomed
 Magoo
@@ -6276,8 +6028,6 @@ Majd
 Majdi
 Majgun
 Majja
-
-
 Majkel
 Majken
 Majlinda
@@ -6287,7 +6037,7 @@ Majri
 Majrid
 Majsan
 Majus
-MajvŒr
+Majvï¿½r
 Majy
 Mak
 Makan
@@ -6323,8 +6073,6 @@ Malle
 Malou
 Malsore
 Malte
-
-
 Malthe
 Malton
 Malva
@@ -6370,8 +6118,6 @@ Manon
 Manop
 Manpreet
 Mansi
-
-
 Manson
 Mantas
 Manuella
@@ -6417,8 +6163,6 @@ Mariel
 Mariella
 Mariem
 Marigona
-
-
 Marii
 Mariia
 Marijam
@@ -6437,7 +6181,7 @@ Mariyam
 Marizela
 Marja
 Marjam
-M‡rk
+Mï¿½rk
 Markas
 Markella
 Marko
@@ -6460,12 +6204,10 @@ Marsvinis
 Marten
 Marth
 Martian
-Mart’n
+Martï¿½n
 Martini
-M‡rton
+Mï¿½rton
 Marty
-
-
 Martyna
 Martynas
 Maru
@@ -6511,11 +6253,9 @@ Masume
 Masumi
 Matan
 Matas
-
-
 Matay
 Mataz
-M‡t
+Mï¿½tï¿½
 Matea
 Mateen
 Matei
@@ -6558,8 +6298,6 @@ Matylda
 Maung
 Maurice
 Maverick
-
-
 Mavin
 Mawj
 Max
@@ -6605,8 +6343,6 @@ McKenzie
 Mea
 Meagan
 Meatball
-
-
 Mebel
 Mecca
 Meda
@@ -6652,8 +6388,6 @@ Melek
 Melenie
 Meley
 Meli
-
-
 Melia
 Melica
 Melicia
@@ -6699,8 +6433,6 @@ Mendim
 Menessa
 Mengistu
 Menissa
-
-
 Menja
 Menna
 Mensure
@@ -6746,8 +6478,6 @@ Meryam
 Meseret
 Mesk
 Messi
-
-
 Meta
 Metal
 Mete
@@ -6793,8 +6523,6 @@ Mickaella
 Micke
 Mickel
 Mickey
-
-
 Micki
 Mickie
 Micko
@@ -6840,9 +6568,7 @@ Mikyas
 Mila
 Milad
 Milaja
-
-
-Mil‡n
+Milï¿½n
 Milana
 Milania
 Milano
@@ -6887,8 +6613,6 @@ Milliam
 Millian
 Millicent
 Millie
-
-
 Million
 Millton
 Milly
@@ -6934,8 +6658,6 @@ Minna
 Minnah
 Minnea
 Minni
-
-
 Minnie
 Minny
 Mino
@@ -6981,8 +6703,6 @@ Mirha
 Mirhat
 Miri
 Miriana
-
-
 Mirielle
 Mirijam
 Mirijana
@@ -7028,8 +6748,6 @@ Mitsi
 Mittens
 Mitzi
 Mitzie
-
-
 Mitzy
 Mix
 Mixa
@@ -7075,8 +6793,6 @@ Molson
 Moltas
 Moltaz
 Momen
-
-
 Momin
 Momina
 Momo
@@ -7122,8 +6838,6 @@ Morran
 Morrgan
 Morris
 Morrison
-
-
 Morriz
 Morsal
 Morsel
@@ -7169,8 +6883,6 @@ Mumrik
 Munire
 Muniro
 Munisa
-
-
 Munna
 Muno
 Muntas
@@ -7215,12 +6927,12 @@ Mysak
 Mysan
 Mystic
 Myy
-MŒlar
-MŒlle
-MŒns
-MŒnz
-MŒrten
-MŠrta-Li
+Mï¿½lar
+Mï¿½lle
+Mï¿½ns
+Mï¿½nz
+Mï¿½rten
+Mï¿½rta-Li
 Naala
 Nacho
 Nadar
@@ -7233,7 +6945,7 @@ Nadine
 Nadira
 Nadja
 Nadra
-Nami
+Naï¿½mi
 Nafas
 Nafiso
 Naga
@@ -7261,8 +6973,6 @@ Nami
 Namo
 Nana
 Nancy
-
-
 Nandi
 Nandini
 Nandita
@@ -7304,12 +7014,10 @@ Natacha
 Natahlie
 Natalee
 Natali
-Nat‡lia
+Natï¿½lia
 Natalie
 Natalin
 Nataly
-
-
 Natan
 Natanael
 Nataniel
@@ -7355,8 +7063,6 @@ Nea
 Neah
 Nebi
 Nebiyu
-
-
 Nebras
 Nebula
 Ned
@@ -7402,8 +7108,6 @@ Nemo
 Neneh
 Nenya
 Neo
-
-
 Neoh
 Neoline
 Neomi
@@ -7449,8 +7153,6 @@ Neymar
 Neyo
 Nguyen
 Nhat
-
-
 Nheo
 Nhu
 Nia
@@ -7496,8 +7198,6 @@ Nicolle
 Nicos
 Nida
 Nidar
-
-
 Nidda
 Niddi
 Niddo
@@ -7543,8 +7243,6 @@ Niksa
 Nikta
 Nil
 Nila
-
-
 Nilab
 Nilas
 Nilay
@@ -7590,8 +7288,6 @@ Nippe
 Nira
 Niraj
 Niran
-
-
 Niro
 Nirvana
 Nis
@@ -7635,10 +7331,8 @@ Noell
 Noella
 Noelle
 Noemi
-Nomie
+Noï¿½mie
 Nogger
-
-
 Noh
 Noha
 Noir
@@ -7684,8 +7378,6 @@ Norton
 Nosferatu
 Nouh
 Nour
-
-
 Nova
 Nova-Lee
 Nova-Li
@@ -7715,9 +7407,9 @@ Nur
 Nutmeg
 Nuts
 Nyat
-NygŒrds
+Nygï¿½rds
 Nyima
-NŒmi
+Nï¿½mi
 Oak
 Oakley
 Oasis
@@ -7776,8 +7468,6 @@ Olla
 Olle
 Olli
 Ollie
-
-
 Olliver
 Olliwer
 Olly
@@ -7823,8 +7513,6 @@ Organic
 Orion
 Orissa
 Orka
-
-
 Orkan
 Ornela
 Ornella
@@ -7915,8 +7603,6 @@ Pariya
 Parker
 Parmida
 Parmis
-
-
 Parnia
 Parnian
 Parosh
@@ -7934,7 +7620,7 @@ Passa
 Patch
 Patches
 Patimat
-Patr’cia
+Patrï¿½cia
 Patricija
 Patriot
 Patrisia
@@ -7962,8 +7648,6 @@ Payton
 Pazzo
 Peace
 Peach
-
-
 Peaches
 Peachy
 Peanut
@@ -8009,8 +7693,6 @@ Pepsie
 Pepsy
 Pepzi
 Percy
-
-
 Perdita
 Perdy
 Perham
@@ -8056,8 +7738,6 @@ Pico
 Pido
 Pierce
 Pierre
-
-
 Piff
 Pigge
 Piglet
@@ -8103,8 +7783,6 @@ Plamena
 Plasma
 Platon
 Pleurat
-
-
 Plexus
 Plum
 Plump
@@ -8195,8 +7873,6 @@ Prick
 Pricka
 Pricken
 Pride
-
-
 Prillan
 Prima
 Primo
@@ -8247,9 +7923,9 @@ Py
 Pyret
 Pysen
 Pyttan
-PŠlsen
-PŠrla
-PŠrlan
+Pï¿½lsen
+Pï¿½rla
+Pï¿½rlan
 Qaali
 Qadra
 Qadro
@@ -8332,8 +8008,6 @@ Ragnar
 Ragnvy
 Ragu
 Raha
-
-
 Rahaf
 Rahel
 Rahela
@@ -8379,8 +8053,6 @@ Ramen
 Rami
 Ramiar
 Ramil
-
-
 Ramin
 Ramina
 Raminta
@@ -8426,8 +8098,6 @@ Rapunzel
 Raqia
 Rares
 Rasan
-
-
 Rascal
 Rashel
 Rask
@@ -8443,7 +8113,7 @@ Rasti
 Rasul
 Ratata
 Ratil
-Raœl
+Raï¿½l
 Rauni
 Ravand
 Rave
@@ -8473,8 +8143,6 @@ Rebeca
 Rebecca
 Rebeccah
 Rebecha
-
-
 Rebecka
 Rebeckah
 Rebeka
@@ -8512,7 +8180,7 @@ Rejhane
 Rejin
 Rejna
 Rejoice
-Rka
+Rï¿½ka
 Rekan
 Rekar
 Reko
@@ -8520,8 +8188,6 @@ Relish
 Relja
 Rem
 Reman
-
-
 Remas
 Remaz
 Rembrandt
@@ -8531,14 +8197,14 @@ Remo
 Remonda
 Remu
 Remus
-Rmy
+Rï¿½my
 Remzo
 Ren
 Renad
 Renan
 Renars
 Renas
-Ren‡ta
+Renï¿½ta
 Renaz
 Renee
 Rengin
@@ -8567,8 +8233,6 @@ Reyan
 Reyansh
 Reyhana
 Reyhane
-
-
 Rezan
 Rezart
 Rhiannon
@@ -8584,7 +8248,7 @@ Ribal
 Ricards
 Ricco
 Rich
-Rich‡rd
+Richï¿½rd
 Richardo
 Richardt
 Richelle
@@ -8614,8 +8278,6 @@ Rihani
 Rihanna
 Rihards
 Riina
-
-
 Riitta-Leena
 Rik
 Rikardo
@@ -8661,8 +8323,6 @@ Ritchie
 Ritika
 Ritta
 Rittal
-
-
 Ritza
 Ritzi
 Ritzy
@@ -8708,8 +8368,6 @@ Rocko
 Rockwell
 Rocky
 Rod
-
-
 Roda
 Rodan
 Rodas
@@ -8755,8 +8413,6 @@ Rolle
 Rolo
 Rolv
 Roman
-
-
 Romario
 Romeo
 Romi
@@ -8786,7 +8442,7 @@ Roos
 Roosa
 Roqaya
 Rory
-R—sa
+Rï¿½sa
 Rosalie
 Rosalin
 Rosalinda
@@ -8802,8 +8458,6 @@ Rosella
 Rosh
 Roshan
 Roshin
-
-
 Roshni
 Rosie
 Rosita
@@ -8849,8 +8503,6 @@ Rozhin
 Rozita
 Rozsa
 Rozzo
-
-
 Rrezarta
 Ru
 Rua
@@ -8896,8 +8548,6 @@ Rukaya
 Ruken
 Rukhsar
 Rulle
-
-
 Rum
 Rumaisa
 Ruman
@@ -8908,7 +8558,7 @@ Rumeysa
 Rumi
 Runa
 Runa-Lisa
-Rœnar
+Rï¿½nar
 Rune
 Runi
 Runis
@@ -8942,7 +8592,7 @@ Ryo
 Rytis
 Ryu
 Rzan
-Ršnnaug
+Rï¿½nnaug
 Saabiriin
 Saaga
 Saanvi
@@ -8988,8 +8638,6 @@ Safae
 Safana
 Saffa
 Saffi
-
-
 Saffie
 Saffran
 Safia
@@ -9035,8 +8683,6 @@ Sali
 Salin
 Salina
 Salka
-
-
 Salle
 Salli
 Sallie
@@ -9082,8 +8728,6 @@ Samiira
 Samira
 Samiro
 Samiya
-
-
 Samiyo
 Sammi
 Sammie
@@ -9129,15 +8773,13 @@ Santiago
 Santina
 Santino
 Santo
-
-
 Santos
 Sanvi
 Sanya
 Saphira
 Sapphire
 Sappo
-S‡ra
+Sï¿½ra
 Sara-Li
 Saraa
 Sarabi
@@ -9176,8 +8818,6 @@ Saturn
 Satya
 Saule
 Sausage
-
-
 Savanna
 Savannah
 Savant
@@ -9223,8 +8863,6 @@ Seamus
 Sean
 Seare
 Seat
-
-
 Seb
 Seba
 Sebasthian
@@ -9270,8 +8908,6 @@ Selly
 Selma
 Selmer
 Selmina
-
-
 Sem
 Sema
 Semi
@@ -9317,8 +8953,6 @@ Sessie
 Setare
 Sevag
 Sevak
-
-
 Sevan
 Sevara
 Seven
@@ -9364,8 +8998,6 @@ Shanna
 Shannon
 Shano
 Shant
-
-
 Shantal
 Shanti
 Shanya
@@ -9411,8 +9043,6 @@ Shiv
 Shiva
 Shoan
 Shock
-
-
 Shogofa
 Shogun
 Shokat
@@ -9458,8 +9088,6 @@ Sidra
 Sidrah
 Sied
 Siegfried
-
-
 Siem
 Siena
 Sienna
@@ -9472,7 +9100,7 @@ Sigma
 Sigmund
 Signe
 Sigrid
-Sigr’dur
+Sigrï¿½dur
 Sigrunn
 Sigsten
 Sigurd
@@ -9505,8 +9133,6 @@ Silvia
 Sima
 Siman
 Simas
-
-
 Simat
 Simav
 Simay
@@ -9552,8 +9178,6 @@ Siqi
 Sira
 Sirada
 Sire
-
-
 Sireen
 Sirena
 Siri
@@ -9589,7 +9213,7 @@ Sivan
 Sive
 Siver
 Siverth
-SiviŠ
+Siviï¿½
 Sixten
 Siyabend
 Siyar
@@ -9599,8 +9223,6 @@ Skaidrite
 Skalman
 Skander
 Skeeter
-
-
 Skeletor
 Skilla
 Skip
@@ -9613,7 +9235,7 @@ Skott
 Skotte
 Skrollan
 Skruttan
-SkrŒllan
+Skrï¿½llan
 Skurte
 Skutt
 Sky
@@ -9646,8 +9268,6 @@ Snare
 Sneak
 Sneaker
 Sneaky
-
-
 Sneha
 Snejana
 Snickar
@@ -9671,8 +9291,8 @@ Snuggle
 Snurran
 Snuttan
 Snyder
-SnŠckan
-Snšvit
+Snï¿½ckan
+Snï¿½vit
 Soar
 Sobhan
 Socks
@@ -9693,8 +9313,6 @@ Sogand
 Sogol
 Soheil
 Sohna
-
-
 Soja
 Sokaina
 Sol
@@ -9714,7 +9332,7 @@ Soliyana
 Solo
 Solveg
 Solveij
-SolvŒr
+Solvï¿½r
 Solyana
 Soma
 Somar
@@ -9740,8 +9358,6 @@ Soraya
 Sorba
 Soren
 Sorena
-
-
 Sorro
 Sosa
 Sosuna
@@ -9787,8 +9403,6 @@ Spook
 Spot
 Spree
 Spring
-
-
 Sprinkle
 Sprint
 Sprite
@@ -9821,7 +9435,7 @@ Starsky
 Static
 Stavro
 Stefani
-Stfanie
+Stï¿½fanie
 Stefany
 Steffani
 Steffanie
@@ -9834,8 +9448,6 @@ Stej
 Steja
 Stella
 Stellan
-
-
 Stephani
 Stephania
 Stephanie
@@ -9878,11 +9490,9 @@ Stuart
 Stumpan
 Stumpen
 Sture
-StŠlla
+Stï¿½lla
 Suado
 Suana
-
-
 Suave
 Subeyda
 Sucaad
@@ -9928,8 +9538,6 @@ Suraj
 Sureya
 Surge
 Suri
-
-
 Surra
 Surya
 Susa
@@ -9967,10 +9575,10 @@ Synthia
 Syrup
 Syuzanna
 Szabina
-Szil‡rd
+Szilï¿½rd
 Szymon
-Sšnke
-Sšren
+Sï¿½nke
+Sï¿½ren
 Tabarak
 Tabarek
 Tabark
@@ -10020,8 +9628,6 @@ Talon
 Talya
 Tamana
 Tamanna
-
-
 Tamara
 Tamarah
 Tamera
@@ -10067,8 +9673,6 @@ Tassa
 Tasse
 Tassi
 Tasso
-
-
 Tassy
 Tater-Tot
 Tatja
@@ -10114,8 +9718,6 @@ Tension
 Tensy
 Tenuun
 Teo
-
-
 Teodor
 Teodora
 Teodore
@@ -10126,7 +9728,7 @@ Teolinda
 Teoman
 Teona
 Tequila
-Trese
+Tï¿½rese
 Terje
 Terno
 Terri
@@ -10161,8 +9763,6 @@ Thalia
 Thanakorn
 Thanakrit
 Thanawat
-
-
 Thanya
 Thara
 Tharaa
@@ -10181,7 +9781,7 @@ Theodore
 Theoharis
 Theon
 Theophilus
-Thers
+Therï¿½sï¿½
 Thermal
 Thess
 Theus
@@ -10208,8 +9808,6 @@ Think
 Thisbe
 Thistle
 Thoai
-
-
 Thong
 Thor
 Thorhildur
@@ -10255,8 +9853,6 @@ Tiffi
 Tiffy
 Tiger
 Tigger
-
-
 Tigra
 Tigran
 Tigris
@@ -10297,13 +9893,11 @@ Timofey
 Timon
 Timor
 Timoteus
-Timothe
+Timothï¿½e
 Timotheos
 Timotheus
 Timothy
 Timoty
-
-
 Timur
 Tin
 Tin-Tin
@@ -10349,8 +9943,6 @@ Toast
 Tobbe
 Tobi
 Tobiasz
-
-
 Tobiaz
 Tobil
 Toblerone
@@ -10372,7 +9964,7 @@ Tolgahan
 Tolin
 Tom
 Toma
-Tom‡s
+Tomï¿½s
 Tomasine
 Tomass
 Tomba
@@ -10396,8 +9988,6 @@ Torch
 Tore
 Torgel
 Torgils
-
-
 Torin
 Tornado
 Toro
@@ -10443,8 +10033,6 @@ Trigger
 Trim
 Trina
 Trine
-
-
 Tringa
 Trinity
 Trip
@@ -10480,7 +10068,7 @@ Trulsa
 Trulsan
 Trust
 Trym
-TrŠff
+Trï¿½ff
 Tsar
 Tsion
 Tsz
@@ -10490,8 +10078,6 @@ Tuanjai
 Tuba
 Tubbe
 Tucker
-
-
 Tudor
 Tudora
 Tue
@@ -10537,8 +10123,6 @@ Tuukka
 Tuure
 Tuva
 Tuva-Lee
-
-
 Tuva-Li
 Tuva-Lie
 Tuva-Lisa
@@ -10575,11 +10159,11 @@ Tyrone
 Tysk
 Tyson
 Tzar
-TŠpp
-TŠppas
-Tšrner
-Tšsa
-Tšsen
+Tï¿½pp
+Tï¿½ppas
+Tï¿½rner
+Tï¿½sa
+Tï¿½sen
 Ubada
 Ubaida
 Ubax
@@ -10674,8 +10258,6 @@ Valor
 Valte
 Valter
 Valters
-
-
 Valther
 Valton
 Valve
@@ -10721,8 +10303,6 @@ Veera
 Vega
 Vegas
 Veimar
-
-
 Vejde
 Velcro
 Velma
@@ -10768,8 +10348,6 @@ Victor
 Victoria
 Victory
 Vida
-
-
 Vidar
 Viddie
 Viddo
@@ -10815,8 +10393,6 @@ Ville
 Villem
 Villemo
 Villgot
-
-
 Villgott
 Villiam
 Vilma
@@ -10862,8 +10438,6 @@ Vishal
 Vishnu
 Viska
 Vita
-
-
 Vito
 Vittoria
 Vittra
@@ -10901,8 +10475,8 @@ Vullnet
 Vuong
 Vusse
 Vy
-VŒfflan
-VŠrna
+Vï¿½fflan
+Vï¿½rna
 Wacky
 Wade
 Wafa
@@ -10954,8 +10528,6 @@ Wegahta
 Wehazit
 Weifeng
 Weijie
-
-
 Wellington
 Wendela
 Wendla
@@ -11001,8 +10573,6 @@ Wiley
 Wilfred
 Wilfrid
 Wilgot
-
-
 Wilgott
 Wilhelm
 Wilhelmina
@@ -11048,8 +10618,6 @@ Wintana
 Winter
 Winton
 Wintra
-
-
 Winzent
 Wiolet
 Wira
@@ -11095,8 +10663,6 @@ Xet
 Xheneta
 Xi
 Xiangyu
-
-
 Xiaolin
 Xiaoming
 Xiaoting
@@ -11142,8 +10708,6 @@ Yared
 Yaren
 Yas
 Yasaman
-
-
 Yasameen
 Yasamin
 Yasira
@@ -11189,8 +10753,6 @@ Ylva
 Ylva-Li
 Ylvali
 Ylvalie
-
-
 Ymer
 Yngve
 Yoan
@@ -11236,8 +10798,6 @@ Yrsel
 Ysabel
 Yuchen
 Yuel
-
-
 Yuet
 Yufeng
 Yuhan
@@ -11283,8 +10843,6 @@ Zack
 Zackaria
 Zackarias
 Zackary
-
-
 Zacke
 Zacko
 Zacky
@@ -11330,8 +10888,6 @@ Zandor
 Zandra
 Zandy
 Zane
-
-
 Zanna
 Zannah
 Zanto
@@ -11377,8 +10933,6 @@ Zelda
 Zelia
 Zelina
 Zeline
-
-
 Zello
 Zelma
 Zemen
@@ -11424,8 +10978,6 @@ Zidane
 Zied
 Ziena
 Zigge
-
-
 Ziggy
 ZigZag
 Ziham
@@ -11471,8 +11023,6 @@ Zixuan
 Zizzi
 Znar
 Zoe
-
-
 Zoey
 Zofie
 Zoha
@@ -11493,7 +11043,7 @@ Zorina
 Zorro
 Zorry
 Zoya
-Zs—fia
+Zsï¿½fia
 Zsombor
 Zsuzanna
 Zubaidah
@@ -11510,41 +11060,39 @@ Zunaira
 Zuni
 Zuzanna
 Zygimantas
-ZŠta
-bi
-di
-ke
-man
-rre
-sa
-scar
-
-
-ska
-skar
-sta
-svald
-€bba
-€ddie
-€lva
-€lvis
-€mma
-€ngel
-€ngla
-€rna
-€rro
-€rtan
-€ster
-€xet
-€xit
-€xtra
-…dlan
-…istein
-…jja
-…jje
-…nska
-…rjan
-…rnie
-…sa
-…sten
-…zge
+Zï¿½ta
+ï¿½bi
+ï¿½di
+ï¿½ke
+ï¿½man
+ï¿½rre
+ï¿½sa
+ï¿½scar
+ï¿½ska
+ï¿½skar
+ï¿½sta
+ï¿½svald
+ï¿½bba
+ï¿½ddie
+ï¿½lva
+ï¿½lvis
+ï¿½mma
+ï¿½ngel
+ï¿½ngla
+ï¿½rna
+ï¿½rro
+ï¿½rtan
+ï¿½ster
+ï¿½xet
+ï¿½xit
+ï¿½xtra
+ï¿½dlan
+ï¿½istein
+ï¿½jja
+ï¿½jje
+ï¿½nska
+ï¿½rjan
+ï¿½rnie
+ï¿½sa
+ï¿½sten
+ï¿½zge
