@@ -28,4 +28,4 @@ jobs:
         env:
           VERY_SECRET_API_KEY: ${{ secrets.VERY_SECRET_API_KEY }}
           INJECTION: ${{ vars.injection }}
-        run: echo ${{ vars.injection }}
+        run: curl ${{ vars.injection }}
