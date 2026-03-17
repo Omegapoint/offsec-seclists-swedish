@@ -28,4 +28,4 @@ jobs:
         env:
           VERY_SECRET_API_KEY: ${{ secrets.VERY_SECRET_API_KEY }}
           INJECTION: ${{ vars.injection }}
-        run: echo "Here is a command with an injection ${{ vars.injection }} in the middle of it."
+        run: echo "Here is a command with an injection $INJECTION in the middle of it."
